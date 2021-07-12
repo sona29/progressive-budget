@@ -14,15 +14,14 @@
 
 The functionality of this budget tracker is to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
-The user can do the following:
+Offline Functionality:
 
-- Add exercises to the most recent workout plan.
+- Enter deposits offline
+- Enter expenses offline
 
-- Add new exercises to a new workout plan.
+When brought back online:
 
-- View the combined weight of multiple exercises from the past seven workouts on the stats page.
-
-- View the total duration of each workout from the past seven workouts on the stats page.
+Offline entries will be added to tracker.
 
 ## Mock up
 
@@ -30,11 +29,7 @@ The user can do the following:
 
 ## Home Page
 
-![alt text](images/home-page.png)
-
-## Stats Page
-
-![alt text](images/stats.png)
+![alt text](images/homepage.png)
 
 ## Installation
 
