@@ -36,7 +36,6 @@ Offline entries will be added to tracker.
 - Clone repository.
 - `npm install`
 - `node server.js`
-- `npm run seed` - to get seed datas.
 
 ## Usage
 
