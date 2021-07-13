@@ -39,7 +39,7 @@ Offline entries will be added to tracker.
 
 ## Usage
 
-A demo of the application is available [here](https://powerful-escarpment-03587.herokuapp.com/)
+A demo of the application is available [here](https://calm-eyrie-65951.herokuapp.com/)
 
 ## Contribution
 
